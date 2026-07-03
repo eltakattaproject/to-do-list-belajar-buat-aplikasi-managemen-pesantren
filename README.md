@@ -47,4 +47,12 @@
 
 [ ] Desain halaman "Input Presensi Guru" untuk Admin (Menggunakan ListView daftar guru, pilihan status, dan tombol simpan).
 
+(Fase 6)
+
+[ ] Desain halaman "Dashboard Guru".
+
+[ ] Tambahkan tombol "Manajemen / Presensi Santri" di Dashboard Guru.
+
+[ ] Beri aksi (Action) pada tombol tersebut untuk mengarahkan (Navigate To) guru ke halaman "Input Presensi Santri".
+
 [ ] Terapkan aturan filter tanggal (Query Filtering) dan aktivasi Cache Local pada query database presensi guru.# to-do-list-belajar-buat-aplikasi-managemen-pesantren
